@@ -1,2 +1,2 @@
-BINANCE_API_KEY = 'yourbinanceapikey'
-BINANCE_SECRET_KEY = 'yourbinancesecretkey'
+BYBIT_API_KEY = 'yourbinanceapikey'
+BYBIT_SECRET_KEY = 'yourbinancesecretkey'

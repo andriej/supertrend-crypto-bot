@@ -8,7 +8,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 import numpy as np
-from datetime import datetime
+from datetime import datetime, date
 import time
 
 exchange = ccxt.binanceus({

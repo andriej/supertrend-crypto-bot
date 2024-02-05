@@ -8,7 +8,7 @@ import json
 import time
 import warnings
 warnings.filterwarnings('ignore')
-
+start_st = datetime.fromtimestamp(time.time()).strftime('%Y%m%d-%H%M%S')
 pd.set_option('display.max_rows', None)
 
 # Set your global variables
